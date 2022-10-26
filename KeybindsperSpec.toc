@@ -1,4 +1,4 @@
-## Interface: 90207
+## Interface: 100003
 ## Title: Keybind per Spec
 ## Notes: Adds support for specialization specific keybinds
 ## Author: PhilgooD93
